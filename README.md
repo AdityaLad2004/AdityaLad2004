@@ -1,3 +1,7 @@
 ### Hi there 👋
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AdityaLad2004)](https://github.com/AdityaLad2004/github-profile-trophy)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaLad2004&show_icons=true&locale=en&layout=compact" alt="AdityaLad2004" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaLad2004&show_icons=true&locale=en" alt="AdityaLad2004" /></p>
