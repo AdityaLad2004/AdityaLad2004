@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Aditya Lad
 
 <h3 align="center">Cloud Engineering Enthusiast</h3>
+<h2 align="center">Currently Learning Blockchain</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AdityaLad2004)](https://github.com/AdityaLad2004/github-profile-trophy)
 
