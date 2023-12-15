@@ -1,13 +1,30 @@
-### Hi there 👋, I'm Aditya Lad
+# Aditya Lad
 
-<h3 align="center">Cloud Engineering Enthusiast</h3>
+## 👋 Hello, World!
 
+Welcome to my GitHub profile! I'm Aditya Lad. Here, you'll find a variety of projects and contributions that reflect my interests and skills.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AdityaLad2004)](https://github.com/AdityaLad2004/github-profile-trophy)
+## 🚀 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaLad2004&show_icons=true&locale=en&layout=compact" alt="AdityaLad2004" /></p>
+- 🌱 I'm currently learning Devops.
+- 🎓 I'm second year Comp. Engineering Student at VIT Pune.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaLad2004&show_icons=true&locale=en" alt="AdityaLad2004" /></p>
+## 🌐 Connect with Me
 
-[![An image of @adityalad2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityalad2004)](https://holopin.io/@adityalad2004)
+- [LinkedIn][www.linkedin.com/in/aditya-lad-3b754a268]
 
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityalad2004&show_icons=true&count_private=true&hide=contribs,prs)
+
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityalad2004&layout=compact)
+
+## 📫 How to Reach Me
+
+If you have any questions or want to collaborate on a project, feel free to reach out:
+
+- Email: aditya.lad.2004@gmail.com
+
+## 🙏 Thank You!
+
+Thank you for visiting my GitHub profile. I'm excited about the possibilities that technology offers and look forward to connecting with like-minded individuals. Let's code something awesome!
