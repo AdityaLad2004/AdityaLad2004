@@ -24,7 +24,8 @@ Welcome to my GitHub profile! I'm Aditya Lad. Here, you'll find a variety of pro
 ### Project 1: Azure infrastructure setup using terraform
 - https://github.com/AdityaLad2004/Azure-Infra-With-Terraform.git
 - Description: Hosted a static html page in azure storage account configured using terraform
-- Tools & Technologies: Azure, Terraform
+- Tools & Technologies: ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 
 ## 💻 Tech Stack
 
