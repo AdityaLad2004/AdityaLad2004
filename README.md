@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm Aditya Lad. Here, you'll find a variety of pro
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityalad2004&show_icons=true&count_private=true&hide=contribs,prs)
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityalad2004&layout=compact)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=adityalad2004&&size_weight=0.05&count_weight=0.95&langs_count=10000000&show_icons=true&locale=en&layout=compact)
 
 ## 🛠️ Projects
 
