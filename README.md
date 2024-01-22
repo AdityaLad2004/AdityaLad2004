@@ -32,13 +32,9 @@ Welcome to my GitHub profile! I'm Aditya Lad. Here, you'll find a variety of pro
 Here are some of the technologies I'm familiar with:
 
 - **DevOps:**  
-  ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-  ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+  [![My Skills](https://skillicons.dev/icons?i=azure,terraform,maven&theme=light)](https://skillicons.dev)
 
-- **Version Control:**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
 
 ## 📫 How to Reach Me
 
